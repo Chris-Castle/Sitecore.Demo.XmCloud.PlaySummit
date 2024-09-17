@@ -1,0 +1,27 @@
+﻿---
+ID: "587ba777-16ac-4598-a3e0-2e9b540c05fc"
+Parent: "d2e97d8f-4634-41b2-ae8b-2b2d94f2d945"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/PLAY/playwebsite/Data/Promos/Play Skate Parks
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+      Hint: PromoText2
+      Value: "<p>Visit our new Play! Skate Parks to practice with your friends.</p>"
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: "<p>Play! Skate Parks</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3b832c4-f545-4bdd-95e9-73c241d56eab"
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link text="Find a Location" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{03ED5621-C2A3-4453-88A6-094FD4881E7C}" />
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image src="https://chc-play.sitecoresandbox.cloud/api/public/content/653d7541794f4bf8af3479bb0b79b1c9?v=72cfa8df" dam-id="oLtXVFGbQ8eq2RKvnJvfUQ" width="3000" height="2000" alt="skateboard-ramp.jpg" dam-content-type="Image" thumbnailsrc="https://chc-play.sitecoresandbox.cloud/api/gateway/90480/thumbnail" />
